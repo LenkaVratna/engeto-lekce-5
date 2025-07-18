@@ -2,5 +2,10 @@
 Tento repozitář slouží jako opora k výuce k Engeto lekce 5 - Testingove akademie
 Pridavam novy radek
 
-# Zkouška
-Zkousim si
+Tato slozka obsahuje i domaci ukoly
+
+Procvicili jsme si prikazy
+
+git add .
+git commit -m "Popis zmeny"
+git push
